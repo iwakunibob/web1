@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages this is a test site web page
+
+Will it connect to other sites and pages?
+
+[My Bio page](bio.md)
 
 You can use the [editor on GitHub](https://github.com/iwakunibob/web1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
